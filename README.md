@@ -1,4 +1,4 @@
-# auth
+# Inspiration App UI
 
 A new Flutter project.
 
